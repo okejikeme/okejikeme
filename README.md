@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okejikeme
-- 👀 I’m interested in systems security.
-- 🌱 I’m currently learning about telecommunication systems.
+- 👀 I’m interested in computer architecture and operating systems.
+- 🌱 I’m currently learning about computer architecture and operating systems.
 - 💞️ I’m looking to collaborate on nothing at the moment (stay tuned).
 - 📫 How to reach me: okejikeme@gmail.com
 
